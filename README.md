@@ -4,5 +4,3 @@
 - 🌱 I’m currently learning **skills at Turing College**
 
 - 💬 Ask me about **what data analysis and Indiana Jones have in common**
-
-- 📫 How to reach me **g.karolis@yahoo.com**
